@@ -2,7 +2,6 @@
 #define PROJECT_INCLUDE_GRAPHTEST_HPP_
 
 #include <sstream>
-#include <strstream>
 #include <limits>
 #include <set>
 
